@@ -2,4 +2,4 @@
 shell
 power me <br/>
 info:@einnse.io
-https://www.ein.io/ noowner
+https://www.ein.io/ no owner
